@@ -3,7 +3,7 @@
 body
 {
 	font-family: "Microsoft Yahei",Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	background-image: linear-gradient(to top, rgba(255,255,255,0.5), rgba(255,255,255,0.7)),url("https://wx2.sinaimg.cn/large/66ba3881gy1fcq9ezsat7j21ek0zzgyl.jpg");
+	background-image: linear-gradient(to top, rgba(255,255,255,0.5), rgba(255,255,255,0.7));
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
